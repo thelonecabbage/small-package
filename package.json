@@ -1,0 +1,21 @@
+{
+  "name": "trimjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "ts-node": "^8.10.2"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/promptly": "^3.0.0",
+    "commander": "^6.0.0",
+    "promptly": "^3.0.3",
+    "simple-git": "^2.17.0",
+    "typescript": "^3.9.7"
+  }
+}
